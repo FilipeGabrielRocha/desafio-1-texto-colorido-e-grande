@@ -1,4 +1,4 @@
-import './cardsTextTransform.css'
+import './cards-text-transform.css'
 
 const Card = ({children, color, textUpper}) => {
     return (

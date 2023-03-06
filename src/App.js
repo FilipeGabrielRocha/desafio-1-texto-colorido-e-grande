@@ -1,5 +1,5 @@
 import './App.css';
-import Card from './components/cardsTextTransform/cardsTextTransform';
+import Card from './components/cards-text-transform/cards-text-transform';
 
 function App() {
   return (
